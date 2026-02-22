@@ -1,13 +1,13 @@
-# 🛒 Instacart Customer Order Analysis
+#  Instacart Customer Order Analysis
 
-## 📌 Project Overview
+##  Project Overview
 This project performs data preprocessing and exploratory data analysis (EDA) on the Instacart dataset to understand customer purchasing behavior, product demand, and ordering patterns.
 
 The analysis integrates multiple datasets including orders, products, aisles, and departments to generate insights and prepare the data for future machine learning applications.
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 - Clean and preprocess raw datasets
 - Merge relational tables
 - Analyze customer order patterns
@@ -16,7 +16,7 @@ The analysis integrates multiple datasets including orders, products, aisles, an
 
 ---
 
-## 🗂 Dataset
+##  Dataset
 The project uses modified Instacart datasets including:
 
 - instacart_orders.csv
@@ -27,14 +27,14 @@ The project uses modified Instacart datasets including:
 
 ---
 
-## 🛠 Technologies Used
+##  Technologies Used
 - Python
 - Pandas
 - Jupyter Notebook
 
 ---
 
-## 🔎 Project Workflow
+##  Project Workflow
 1. Data loading
 2. Data inspection
 3. Data cleaning
@@ -44,13 +44,13 @@ The project uses modified Instacart datasets including:
 
 ---
 
-## 📊 Key Insights
+##  Key Insights
 - Identification of frequent purchase patterns
 - Most popular products and departments
 - Customer behavior trends over time
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 1. Clone this repository
 2. Install dependencies:
